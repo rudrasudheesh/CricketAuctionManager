@@ -1,0 +1,82 @@
+[
+  {
+    "id": 1,
+    "name": "Virat Kohli",
+    "age": 36,
+    "role": "Batsman",
+    "basePrice": 200,
+    "soldPrice": 250
+  },
+  {
+    "id": 2,
+    "name": "Rohit Sharma",
+    "age": 38,
+    "role": "Batsman",
+    "basePrice": 180,
+    "soldPrice": 220
+  },
+  {
+    "id": 3,
+    "name": "Shubman Gill",
+    "age": 25,
+    "role": "Batsman",
+    "basePrice": 150,
+    "soldPrice": 190
+  },
+  {
+    "id": 4,
+    "name": "Yashasvi Jaiswal",
+    "age": 23,
+    "role": "Batsman",
+    "basePrice": 120,
+    "soldPrice": 170
+  },
+  {
+    "id": 5,
+    "name": "Jasprit Bumrah",
+    "age": 31,
+    "role": "Bowler",
+    "basePrice": 180,
+    "soldPrice": 240
+  },
+  {
+    "id": 6,
+    "name": "Mohammed Shami",
+    "age": 34,
+    "role": "Bowler",
+    "basePrice": 140,
+    "soldPrice": 180
+  },
+  {
+    "id": 7,
+    "name": "Kuldeep Yadav",
+    "age": 30,
+    "role": "Bowler",
+    "basePrice": 130,
+    "soldPrice": 165
+  },
+  {
+    "id": 8,
+    "name": "Hardik Pandya",
+    "age": 31,
+    "role": "AllRounder",
+    "basePrice": 210,
+    "soldPrice": 270
+  },
+  {
+    "id": 9,
+    "name": "Ravindra Jadeja",
+    "age": 36,
+    "role": "AllRounder",
+    "basePrice": 190,
+    "soldPrice": 240
+  },
+  {
+    "id": 10,
+    "name": "Axar Patel",
+    "age": 31,
+    "role": "AllRounder",
+    "basePrice": 160,
+    "soldPrice": 210
+  }
+]
